@@ -9,3 +9,5 @@ lib/
 pyvenv.cfg
 
 secret.py
+
+*.log
